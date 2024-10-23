@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+h1 {
+  margin: .5rem;
+}
+
+h3 {
+  margin: 1rem;
+  font-weight: 200;
+}
+
+button {
+  margin: 1.5rem;
+  padding:1rem;
+  font-family: 'Roboto';
+  font-size: 2rem;
+}
